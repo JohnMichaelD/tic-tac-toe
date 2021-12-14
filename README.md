@@ -1,6 +1,8 @@
 # tic-tac-toe
 
-what I learned, or got a refresher in :
+## what I learned, or got a refresher in :
+
+- ### CSS
 
 - css roots, var
 
@@ -16,12 +18,12 @@ what I learned, or got a refresher in :
 
 - css units, rem, vh, vw
 
--- css: display, none, show
+- css: display, none, show
 
+- ### JS
 
+- event listener : once: true
 
 ## issues i'm having
 
-- spacing issues between columns
-
-- color before
+- spacing issues between columns/rows?
